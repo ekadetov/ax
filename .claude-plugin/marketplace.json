@@ -1,0 +1,17 @@
+{
+  "name": "ax",
+  "owner": {
+    "name": "ekadetov"
+  },
+  "metadata": {
+    "description": "AI development workflow skills for Claude Code",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "ax",
+      "description": "Tracer-bullet workflow: write-a-prd, prd-to-issues, issue-to-tasks, code-review, final-audit, grill, ubiquitous-language, design-interface, improve-architecture.",
+      "source": "./"
+    }
+  ]
+}

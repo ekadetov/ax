@@ -1,0 +1,11 @@
+{
+  "name": "ax",
+  "description": "AI development workflow skills for Claude Code — tracer-bullet pipeline from PRD to final audit.",
+  "version": "0.1.0",
+  "author": {
+    "name": "ekadetov"
+  },
+  "repository": "https://github.com/ekadetov/ax",
+  "license": "MIT",
+  "keywords": ["workflow", "prd", "tdd", "code-review", "tracer-bullet"]
+}
