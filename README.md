@@ -1,3 +1,17 @@
+# ax — AI Development Workflow Plugin
+
+## Installation
+
+```bash
+# Add as marketplace (once)
+/plugin marketplace add ekadetov/ax
+
+# Install
+/plugin install ax@ax
+```
+
+---
+
 # My AI-Assisted Workflow
 
 > How I built a structured AI-assisted development workflow as a Tech Lead, where the real work happens before a single line of code is written.
